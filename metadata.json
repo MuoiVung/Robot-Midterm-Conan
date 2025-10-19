@@ -1,0 +1,5 @@
+{
+  "name": "Robot Midterm Review Quiz",
+  "description": "An interactive quiz application to help students prepare for their robotics midterm exam. It features multiple question types, two modes (study and test), and bilingual support (English/Vietnamese).",
+  "requestFramePermissions": []
+}
